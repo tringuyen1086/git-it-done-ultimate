@@ -17,12 +17,17 @@ An application that allows a user to search for details about other Github users
 ## Built With :toolbox: 
 
 [x] HTML
+
 [x] CSS
+
 [x] JavaScript
+
 [x] GitHub API
 
 ## Contribution
+
 [x] UCB Bootcamp
+
 [x] Tri Nguyen
 
 
